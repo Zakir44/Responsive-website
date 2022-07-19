@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    background-color: #161616;
+    border-radius: 5px;
+}
+
+/* Article-section */
+.top-title {
+    color: white;
+}
+
+.info {
+    color: white;
+}
+
+h4 {
+    weight: 5px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: tomato;
+    text-align: center;
+}
+
+/* MAtch-data */
+.players-pic img{
+    width:312px ;
+    height:175px;
+
+}
+.live-detail {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.transfer-button {
+    width: 100px;
+    Height: 32px;
+    border-radius: 12px;
+}
+
+/* footer */
+.end {
+    color: white;
+}
